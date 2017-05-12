@@ -1,0 +1,11 @@
+{
+    "name": "Custom-stack-sizes",
+    "version": "0.1.1",
+    "title": "Custom Stack Sizes",
+    "author": "CTA",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.15",
+    "dependencies": ["base", "? wormmus-config"],
+    "description": "Custom stack size amounts"
+}

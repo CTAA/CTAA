@@ -1,0 +1,1 @@
+require("stacksize.stack-size")
